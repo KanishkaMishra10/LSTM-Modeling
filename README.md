@@ -15,7 +15,7 @@ Libraries Used:
 
 # Sequence of Instructions Performed
 
-1. We have first installed/imported all the required libraries
+1. I have first installed/imported all the required libraries
 2. Then imported the dataset into our jupyter notebook.
 3. Performed Data Analysis and Data Preprocessing
 4. Used Box plot to understand the distribution of the data
