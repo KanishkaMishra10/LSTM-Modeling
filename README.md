@@ -23,3 +23,4 @@ Libraries Used:
 6. Then, used a candelstick chart to visualize the opening, high , low, and closing prices of the binance coin.
 7. Build the model.
 8. Trained the model and then evaluated using testing data and various matrices.
+
